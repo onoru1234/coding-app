@@ -1,0 +1,108 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.9),rgba(0, 0, 0, 0.247)),url(back2.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+.form{
+    width: 270px;
+    height: 370px;
+    background-color:rgba(0, 0, 0, 0.712);
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 400px;
+}
+.bt{
+    height: 40px;
+    width: 190px;
+    margin-left: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color:white;
+    margin-top: 12px;
+    font-size: 19px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:#bf360c;
+}
+
+.btn{
+    height: 34px;
+    width: 210px;
+    margin-left: 27px;
+    border-radius: 10px;
+    border: none;
+    background-color: #bf360c;
+    margin-top: 30px;
+    font-size: 19px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: white;
+}
+.name{
+    font-size: 16px;
+    background-color: rgba(0, 0, 0, 0.212);
+    border: none;
+    margin-top: 20px;
+    margin-left: 10px;
+    color:white;
+}
+.pass{
+    font-size: 16px;
+    background-color: rgba(0, 0, 0, 0.459);
+    border: none;
+    margin-top: 35px;
+    margin-left: 10px;
+    color: white;
+}
+.firstp{
+    margin-left: 38pt;
+    margin-bottom: 0px;
+    color: white;
+}
+.secp{
+margin-left: 64pt;
+margin-top: -1pt;
+color: white;
+}
+.name::placeholder{
+    color: white;
+}
+.pass::placeholder{
+    color: white;
+}
+a{
+    color: #bf360c;
+    text-decoration: none;
+}
+.body{
+    display: flex;
+}
+.sheading{font-size: 40px;
+    margin-top: -30px;
+    margin-left: 55px;
+    color: #d5a661;
+                                                                                
+}
+.fheading{font-size: 43px;
+    margin-top: 90px;
+    margin-left: 50px;
+    color: #d5a661;                                                                            
+}
+
+.myp{
+    width: 500px;
+    color: white;
+    font-size: large;
+    margin-left: 50px;
+    margin-top: -11px;
+
+}
+.log{
+    color: white;
+    font-size: 60px;
+    margin-left: 40px;
+}
+.secp::after{
+    color:white;
+}
